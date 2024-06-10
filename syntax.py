@@ -1,3 +1,4 @@
-a=7
-if a>5:
-       print("a is greater than 5")
+x,y,z="apple","orange","grapes"
+print(x)
+print(y)
+print(z)
