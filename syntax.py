@@ -1,3 +1,2 @@
 x="sun"
-y="shine"
-print(x,y)
+print("s" in x)
