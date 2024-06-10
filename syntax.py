@@ -1,3 +1,3 @@
-x,y,z="apple","orange","grapes"
-print(x)
-print(y)
+x="sun"
+y="shine"
+print(x,y)
