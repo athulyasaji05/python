@@ -11,3 +11,14 @@ d5=dict([(1,"welcome")])
 print(d5)
 d6={"name":{"fname":"Athulya","lname":"Saji"}}
 print(d6)
+d={}
+d[0]="A"
+d[1]="Athulya"
+print(d)
+
+print(d[1])
+
+d.pop(0)
+d.popitem()
+
+d6.values()
