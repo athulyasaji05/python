@@ -1,0 +1,5 @@
+fruits=("apple","orange","banana")
+myit=iter(fruits)
+print(next(myit))
+print(next(myit))
+print(next(myit))
